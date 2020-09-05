@@ -16,7 +16,6 @@ public class BasicCalculator {
         char equalSign = scanner.next().charAt(0);
 
 
-
         switch (equalSign) {
 
             case '+':
@@ -39,11 +38,15 @@ public class BasicCalculator {
                 System.out.println("This is an unknown operation");
         }
 
-
     }
 
 
 
 }
+
+
+
+
+
 
 
